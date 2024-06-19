@@ -25,7 +25,7 @@ I am currently pursuing a computer science degree and actively seeking opportuni
 
 
 ## Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/parth1899/)
-- **LeetCode:** [Your LeetCode Profile](https://leetcode.com/u/parth1899/)
-- **GitHub:** [Your GitHub Profile](https://github.com/parth1899)
-- **Portfolio:** [Your Portfolio Website](https://parth1899.github.io)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/parth1899/)
+- **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/parth1899/)
+- **GitHub:** [My GitHub Profile](https://github.com/parth1899)
+- **Portfolio:** [My Portfolio Website](https://parth1899.github.io)
