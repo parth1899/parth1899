@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # Parth Kalani
 
 **Email:** [parthkalani1899@gmail.com](mailto:parthkalani1899@gmail.com)  
-**Phone:** +91 7358353305  
 **Location:** Pune, India
 
 ## About Me
@@ -27,5 +26,3 @@ I am currently pursuing a computer science degree and actively seeking opportuni
 ## Connect with Me
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/parth1899/)
 - **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/parth1899/)
-- **GitHub:** [My GitHub Profile](https://github.com/parth1899)
-- **Portfolio:** [My Portfolio Website](https://parth1899.github.io)
