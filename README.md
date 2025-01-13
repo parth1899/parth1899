@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently a part of [NRSC Project Team](https://github.com/NRSC-PROJECT-TEAM)
 
-- 🌱 I’m currently learning **Deep Learning and C++ :)**
-
 - 🤫 working on **Geospatial Applications**
+  
+- 🌱 I’m currently learning **Deep Learning and C++ :)**
 
 - 📫 How to reach me **parthkalani1899@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JOnyavzsa2yZD83UVJeZEACHkQN8fJr37CYVqZ3M32Y/edit?usp=sharing](https://docs.google.com/document/d/1JOnyavzsa2yZD83UVJeZEACHkQN8fJr37CYVqZ3M32Y/edit?usp=sharing)
+- 📄 Know about my experiences [my resume](https://docs.google.com/document/d/1JOnyavzsa2yZD83UVJeZEACHkQN8fJr37CYVqZ3M32Y/edit?usp=sharing)
 
 - ⚡ Fun fact **Programmer who likes to touch grass 🦗**
 
