@@ -13,3 +13,6 @@ Currently building cool geospatial stuff at NRSC-ISRO! 🛰️
 
 Let's connect and build something awesome!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth1899)
+
+
+https://drive.google.com/drive/folders/1h8v5aaVN-jDp3jr4cOjRJmAXw9mMOQDa?usp=drive_link
